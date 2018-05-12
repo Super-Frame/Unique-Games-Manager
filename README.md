@@ -1,5 +1,5 @@
 # Unique Games Manager
-¡a simple platform and veils! made in order to give you the best experience when playing video games, also created with the purpose that indie people who are creating videojugos, can sell and promote in a good way for him and good for Buyers.
+¡a simple and fast platform! made in order to give you the best experience when playing video games, also created with the purpose that indie people who are creating video games, can sell and promote it in a good way for Buyers end themseves.
 ## For the standard user
 The application connects with the Unique Games and Super Frame databases, they help improve the user experience since the same amount that you use to play and buy videogames and objects for these, you can access tutorials, discounts, promotions, and free games, created by super frame, or any other company or indie group.
 the idea of a world more united by videogames, has never been so close to being fulfilled as now, why not help with it?
@@ -17,7 +17,7 @@ the store is a section that allows creators to sell their games at the price the
 ### Connecting people
 we have a development platform that allows you to be working coperatively with other people, no matter where they are, the only necessary in a connection to the internet, a computer, cell phone or tablet and a cun in "only", and with this they would have all the necessary to connect and work on the code and many other things about your projects.
 ### Accounts
-the basic accounts of creators, has an annual cost of 100 dollars or monthly of 10 dollars, the normal accounts of creators, have a cost of 12 dollars per month or 120 dollars per year, advanced accounts of creators, has a cost of 30 dollars per month or 300 dollars per year. Each type of account has its benefits, for example in the basic account, it does not have the tutorials included, in the normal account this is included in the cost, another example is that neither the basic nor the normal, you have the possibility to generate keys or have a store (these can be purchased in the pulgins of the cuntas), but with the advanced cunt these are already included, with the possibility of making your own workshops for your games and put advertising on the news page .
+the basic accounts of creators, has an annual cost of 100$ or monthly of 10$, the normal accounts of creators, have a cost of 12$ per month or 120$ per year, advanced accounts of creators, has a cost of 30$ per month or 300$ per year. Each type of account has its benefits, for example in the basic account, it does not have the tutorials included, in the normal account this is included in the cost, another example is that neither the basic nor the normal, you have the possibility to generate keys or have a store (these can be purchased in the pulgins of the cuntas), but with the advanced cunt these are already included, with the possibility of making your own workshops for your games and put advertising on the news page .
 ## This Proyect
 
 ### License
