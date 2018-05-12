@@ -18,7 +18,7 @@ the tutorials are made on the Cryengine platform (created by crytek), but it is 
       Historical construction,<br>
       Animation,<br>
 
-### Store
+###### Store
 the store is a section that allows creators to sell their games at the price they consider appropriate and can choose how much they want us to stay, this influlle in how much advertising are covering sales, since advertising can be paid by apart or obtained by merit.
 
 
