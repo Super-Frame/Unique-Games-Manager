@@ -11,12 +11,12 @@ unique games has many possibilities, but it is you who decide how to use them.
 ### Tutorials
 the tutorials are made on the Cryengine platform (created by crytek), but it is allowed that people who want to expand their knowledge can do it from here, so that it reaches the public that really interests them, obviously the courses have a price, this It is not very high so that what has always been tried to do, an education accessible to all.<br>
   tutorials:
-     - Creation of objects and texturing,
-     - Creation of a simple, advanced and professional UI,
-     - Programming,
-     - Mapping,
-     - Historical construction,
-     - Animation,
+  - Creation of objects and texturing.
+  - Creation of a simple, advanced and professional UI.
+  - Programming.
+  - Mapping.
+  - Historical construction.
+  - Animation.
 
 ### Store
 the store is a section that allows creators to sell their games at the price they consider appropriate and can choose how much they want us to stay, this influlle in how much advertising are covering sales, since advertising can be paid by apart or obtained by merit.
