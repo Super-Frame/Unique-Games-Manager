@@ -23,7 +23,7 @@ the store is a section that allows creators to sell their games at the price the
 
 ### Help
 <pre><code>&lt;div class="footer"&gt;
-    &amp;copy; 2004 Foo Corporation
+    &copy; 2004 Foo Corporation
 &lt;/div&gt;
 </code></pre>
 
