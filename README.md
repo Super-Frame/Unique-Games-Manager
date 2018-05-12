@@ -10,7 +10,7 @@ unique games has many possibilities, but it is you who decide how to use them.
 
 ### Tutorials
 the tutorials are made on the Cryengine platform (created by crytek), but it is allowed that people who want to expand their knowledge can do it from here, so that it reaches the public that really interests them, obviously the courses have a price, this It is not very high so that what has always been tried to do, an education accessible to all.<br>
-  tutorials:
+We have videogame tutorials, web page creation, business management, video editing, creation of stories and movies, creation of 3d objects and application programming.
   - Creation of objects and texturing.
   - Creation of a simple, advanced and professional UI.
   - Programming.
@@ -20,12 +20,8 @@ the tutorials are made on the Cryengine platform (created by crytek), but it is 
 
 ### Store
 the store is a section that allows creators to sell their games at the price they consider appropriate and can choose how much they want us to stay, this influlle in how much advertising are covering sales, since advertising can be paid by apart or obtained by merit.
-
-### Help
-<pre><code>&lt;div class="footer"&gt;
-    &copy; 2004 Foo Corporation
-&lt;/div&gt;
-</code></pre>
+### Connecting people
+we have a development platform that allows you to be working coperatively with other people, no matter where they are, the only necessary in a connection to the internet, a computer, cell phone or tablet and a cun in "only", and with this they would have all the necessary to connect and work on the code and many other things about your projects.
 
 ## This Proyect
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Unique Games</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="superframe.sinfonia.co" property="cc:attributionName" rel="cc:attributionURL">Super Frame</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License</a>.<br />
