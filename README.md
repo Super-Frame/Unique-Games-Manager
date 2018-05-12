@@ -22,3 +22,24 @@ the basic accounts of creators, has an annual cost of 100$ or monthly of 10$, th
 ### License
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Unique Games</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="superframe.sinfonia.co" property="cc:attributionName" rel="cc:attributionURL">Super Frame</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License</a>.<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
+
+
+# HEROS?
+imagine a game with more than 40 different endings, several stories, spectacular graphics, more than 140 hours of play; **THAT IS IMPOSSIBLE!** Well, it seems to you that it is not because thanks to the work we have achieved **Super Frame**, we have achieved it, and this will be within reach of you.
+**Super Frame** with the idea of a *world more united by games*, has been given the job of doing something impossible, something that no one would dare to do, and this has come out, ***HEROS?***.
+You have never been so close to making video games in which you are the protagonist and depending on what the outcome is.
+
+> we created it, you enjoy it
+***Simón López***, Creator of Super Frame and creator of HEROS?
+
+
+## Info
+**HEROS?** It is a project at this moment, **Super Frame** is doing everything possible, so that it reaches your hands as quickly as possible.
+
+## Help
+if you want to support this and other projects leave your ideas in the comments of this repository.
+### License
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Unique Games</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="superframe.sinfonia.co" property="cc:attributionName" rel="cc:attributionURL">Super Frame</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License</a>.<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
