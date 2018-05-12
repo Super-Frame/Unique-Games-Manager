@@ -19,7 +19,6 @@ we have a development platform that allows you to be working coperatively with o
 ### Accounts
 the basic accounts of creators, has an annual cost of 100$ or monthly of 10$, the normal accounts of creators, have a cost of 12$ per month or 120$ per year, advanced accounts of creators, has a cost of 30$ per month or 300$ per year. Each type of account has its benefits, for example in the basic account, it does not have the tutorials included, in the normal account this is included in the cost, another example is that neither the basic nor the normal, you have the possibility to generate keys or have a store (these can be purchased in the pulgins of the cuntas), but with the advanced cunt these are already included, with the possibility of making your own workshops for your games and put advertising on the news page .
 ## This Proyect
-
 ### License
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Unique Games</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="superframe.sinfonia.co" property="cc:attributionName" rel="cc:attributionURL">Super Frame</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License</a>.<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
