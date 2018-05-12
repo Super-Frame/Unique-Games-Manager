@@ -20,7 +20,10 @@ the tutorials are made on the Cryengine platform (created by crytek), but it is 
 
 ### Store
 the store is a section that allows creators to sell their games at the price they consider appropriate and can choose how much they want us to stay, this influlle in how much advertising are covering sales, since advertising can be paid by apart or obtained by merit.
-
+ - 1
+ - 2
+ - 3
+ - 4
 
 ## This Proyect
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Unique Games</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="superframe.sinfonia.co" property="cc:attributionName" rel="cc:attributionURL">Super Frame</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="unique.sinfonia.co/proyects/uniqueGames" rel="dct:source">unique.sinfonia.co/proyects/uniqueGames</a>.<br />Puede hallar permisos más allá de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="unique.sinfonia.co/proyects/uniqueGames/permicions" rel="cc:morePermissions">unique.sinfonia.co/proyects/uniqueGames/permicions</a>
