@@ -30,7 +30,8 @@ imagine a game with more than 40 different endings, several stories, spectacular
 **Super Frame** with the idea of a *world more united by games*, has been given the job of doing something impossible, something that no one would dare to do, and this has come out, ***HEROS?***.
 You have never been so close to making video games in which you are the protagonist and depending on what the outcome is.
 
-> we created it, you enjoy it
+> we created it, you enjoy it.
+
 ***Simón López***, Creator of Super Frame and creator of HEROS?
 
 
